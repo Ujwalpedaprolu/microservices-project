@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM FROM python:3.12-slim-bookworm
+FROM python:3.12-slim-bookworm
 
 FROM base as builder
 
